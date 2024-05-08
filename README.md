@@ -5,8 +5,8 @@ There has been an alarming rise in road accidents, significantly U-Turn accident
 Here is an automated Internet of Things (IoT) based U-Turn accident prevention system.
 
 Following link contains demo videos of the system:-
+https://youtu.be/lZwQbR6wPsg?si=sLFW9AnT1uU29e09
 
-https://youtu.be/gZIjOLf5sgU?si=iz1AlpKQGb6OFWOe
 
 
 # Novelty of the System
